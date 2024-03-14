@@ -1,5 +1,5 @@
-# JCWD2704-module-01
 
-This repo is my initiation to show zero to hero. If this repo still exists in the future, I will be proud of myself, my lectures and my friends and family in the future.
+# `JCWD-2704` Module 1 - Fundamental
 
-# Thank you for read this [README.md]
+Welcome to my repository. This repo marks the beginning of my journey. Please feel free to leave comments and suggestions for me. Thank you.
+
