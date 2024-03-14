@@ -54,6 +54,10 @@ web_modules/
 # Optional eslint cache
 .eslintcache
 
+.vscode
+
+pnpm-lock.yaml
+
 # Optional stylelint cache
 .stylelintcache
 

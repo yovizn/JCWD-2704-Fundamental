@@ -1,10 +1,5 @@
-const arr = [1, 2, 3, 4, 5];
-
-const push = arr.push(16);
-
-console.log(arr);
-
 const nambahinValue = (input: number) => {
+    const arr = [1, 2, 3, 4, 5];
     const push = arr.push();
 
     return push;
